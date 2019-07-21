@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Android_Studio_Projects/absence_tracker/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/jetified-core-1.9.13.aar/6ddd36db2a1579563b65567ade970ce2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eb6f95ff43daacca7bc3ebe6ebbd7c57/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "441"
+                    }
+                }
+            ]
+        }
+    ]
+}

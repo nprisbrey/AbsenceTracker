@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Android_Studio_Projects/absence_tracker/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eb6f95ff43daacca7bc3ebe6ebbd7c57/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

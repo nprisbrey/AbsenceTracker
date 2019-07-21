@@ -1,0 +1,41 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        maven {
+	    url '/media/ubuntu/Nathan_Prisbrey/Linux_Setup/maven'
+        }
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.0'
+        classpath 'com.google.gms:google-services:3.2.1'
+    }
+}
+
+allprojects {
+    repositories {
+        mavenLocal()
+        maven {
+	    url '/media/ubuntu/Nathan_Prisbrey/Linux_Setup/maven'
+        }
+        google()
+        jcenter()
+    }
+    configurations.all {
+        resolutionStrategy.force "com.google.android.gms:play-services-basement:16.1.0"
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

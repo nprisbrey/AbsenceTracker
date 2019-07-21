@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Android_Studio_Projects/absence_tracker/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eb6f95ff43daacca7bc3ebe6ebbd7c57/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3817fcad534b11a02262b558ac5eff8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        }
+    ]
+}

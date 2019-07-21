@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982071938129",
+    "firebase_url": "https://absence-database.firebaseio.com",
+    "project_id": "absence-database",
+    "storage_bucket": "absence-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982071938129:android:e9711385cbec55d9",
+        "android_client_info": {
+          "package_name": "com.livermorehs.absence_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982071938129-fadild430560g92udumm97vjjeff055i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9xWp8WhMlDkTHzLL7F_ZUvL8aOK2upSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982071938129-fadild430560g92udumm97vjjeff055i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982071938129-8mhjeor62oe86t02jv3uc91pi6r0vl4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.livermorehs.absenceTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

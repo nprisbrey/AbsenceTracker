@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Android_Studio_Projects/absence_tracker/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3817fcad534b11a02262b558ac5eff8/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/media/ubuntu/Nathan_Prisbrey/Linux_Setup/Gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eb6f95ff43daacca7bc3ebe6ebbd7c57/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        }
+    ]
+}
